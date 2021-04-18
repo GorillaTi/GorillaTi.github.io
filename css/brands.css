@@ -44,7 +44,7 @@ button {
   font-weight: 600;
   line-height: 48px;
   letter-spacing: 0.5px;
-  white-space: wrap;
+  white-space: nowrap;
   background-color: transparent;
   border-radius: 8px;
   cursor: pointer;
